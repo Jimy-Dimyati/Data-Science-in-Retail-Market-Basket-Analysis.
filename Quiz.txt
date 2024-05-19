@@ -194,3 +194,10 @@ d.23
 e.4
 Jawaban (d)
 
+Apa kegunaan dari fungsi inspect?
+Apa kegunaan dari fungsi inspect yang telah Anda ketahui sejauh ini?
+a.Melihat daftar transaksi dari fungsi read.transactions
+b.Melakukan inspeksi terhadap kode R yang salah
+c.Melihat daftar rule yang dihasilkan oleh fungsi apriori
+d.Semuanya benar
+Jawaban (a, c)
