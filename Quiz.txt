@@ -7,3 +7,12 @@ d.Menyusun produk pada rak atau website yang berhubungan erat
 e.Menemukan jarak terpendek dengan para customer
 Jawaban (a, c, d)
 
+Data apa yang diperlukan oleh algoritma Market Basket Analysis?
+Data apa yang diperlukan oleh algoritma MBA yaitu apriori di R?
+a.Data Pelanggan
+b.Data Wilayah
+c.Data Transaksi
+d.Data Produk
+e.Data Pemilik Bisnis
+Jawaban (c, d)
+
