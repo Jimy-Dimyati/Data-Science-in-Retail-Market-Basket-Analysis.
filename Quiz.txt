@@ -16,3 +16,11 @@ d.Data Produk
 e.Data Pemilik Bisnis
 Jawaban (c, d)
 
+Apa yang dimaksud dengan algoritma Apriori?
+a.Suatu hubungan antar produk di retail
+b.Suatu algoritma komputer
+c.Suatu aplikasi mobile
+d.Suatu software yang terlibat dengan cyber security
+e.Metode implementasi dari Market Basket Analysis
+Jawaban (b, e)
+
