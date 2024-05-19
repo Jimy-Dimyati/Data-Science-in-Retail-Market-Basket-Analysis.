@@ -24,3 +24,75 @@ d.Suatu software yang terlibat dengan cyber security
 e.Metode implementasi dari Market Basket Analysis
 Jawaban (b, e)
 
+Apa output yang dihasilkan oleh algoritma Apriori?
+a.Suatu algoritma komputer
+b.Suatu software yang terlibat dengan cyber security
+c.Suatu aplikasi mobile
+d.Metode teknis yang digunakan oleh market basket analysis
+e.Suatu hubungan antar produk di transaksi penjualan retail
+Jawaban (e)
+
+Kenapa harus menggunakan algoritma Apriori?
+Apa satu alasan terkuat kita harus menggunakan algoritma Apriori dibandingkan manual?
+a.Data yang harus dianalisa terlalu kotor
+b.Kombinasi data yang harus dianalisa terlalu besar
+c.Data transaksi yang harus dianalisa besar
+d.Semua benar
+Jawaban (b)
+
+Mana pernyataan yang benar mengenai Item?
+Dari penjelasan video sebelumnya, mana pernyataan berikut yang benar mengenai konsep item?
+a.Kombinasi produk yang terdapat pada suatu transaksi
+b.Produk tunggal yang menjadi bagian dari transaksi
+c.Relasi antar produk
+d.Satu transaksi
+e.Tidak ada jawaban yang benar
+Jawaban (b)
+
+Mana yang merupakan item ?
+Mana saja yang disebut item dari output berikut ini
+lhs                     rhs        support confidence lift    
+[1] {Pet Food}           => {Sirup}    0.4     0.8000000  1.333333
+[2] {Sirup}              => {Pet Food} 0.4     0.6666667  1.333333
+[3] {Gula,Pet Food}      => {Sirup}    0.1     1.0000000  1.666667
+[4] {Pet Food,Teh Celup} => {Sirup}    0.2     0.6666667  1.111111
+a.Pet Food
+b.Coklat
+c.Sirup
+d.Garam
+Jawaban (a,c)
+
+Mana pernyataan-pernyataan berikut mengenai Itemset yang benar?
+a.Kombinasi produk yang terdapat pada suatu transaksi
+b.Produk tunggal yang menjadi bagian dari transaksi
+c.Relasi antar produk
+d.Tidak ada jawaban yang benar
+e.Satu transaksi
+Jawaban (a)
+
+Mana yang merupakan Itemset?
+Dari contoh output berikut, mana yang merupakan Itemset?
+   lhs                     rhs        support confidence lift    
+[1] {Pet Food}           => {Sirup}    0.4     0.8000000  1.333333
+[2] {Sirup}              => {Pet Food} 0.4     0.6666667  1.333333
+[3] {Gula,Pet Food}      => {Sirup}    0.1     1.0000000  1.666667
+[4] {Pet Food,Teh Celup} => {Sirup}    0.2     0.6666667  1.111111
+a.{Gula,Pet Food}
+b.Pet Food
+c.{Pet Food} => {Sirup}
+d.{Sirup}
+Jawaban (a, d)
+
+Mana yang merupakan Rule?
+Dari contoh output berikut, mana yang merupakan rule?
+   lhs                     rhs        support confidence lift    
+[1] {Pet Food}           => {Sirup}    0.4     0.8000000  1.333333
+[2] {Sirup}              => {Pet Food} 0.4     0.6666667  1.333333
+[3] {Gula,Pet Food}      => {Sirup}    0.1     1.0000000  1.666667
+[4] {Pet Food,Teh Celup} => {Sirup}    0.2     0.6666667  1.111111
+a.{Gula,Pet Food}
+b.Pet Food
+c.{Pet Food} => {Sirup}
+d.{Sirup}
+Jawaban (c)
+
