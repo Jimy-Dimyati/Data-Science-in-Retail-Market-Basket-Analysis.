@@ -1,0 +1,9 @@
+Quiz: Apa tujuan dari Market Basket Analysis?
+Apa tujuan dari Market Basket Analysis?
+a.Untuk menemukan pola unik dari sebuah dataset transaksi
+b.Mengenali pelanggan secara lebih personal
+c.Membuat paket produk yang bisa meningkatkan penjualan
+d.Menyusun produk pada rak atau website yang berhubungan erat
+e.Menemukan jarak terpendek dengan para customer
+Jawaban (a, c, d)
+
