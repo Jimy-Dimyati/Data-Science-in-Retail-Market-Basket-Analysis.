@@ -96,3 +96,101 @@ c.{Pet Food} => {Sirup}
 d.{Sirup}
 Jawaban (c)
 
+Berapa banyak transaksi yang ada pada contoh dataset kita berdasarkan output dari pembacaan file kita berikut
+   Kode.Transaksi      Item
+1             #01 Teh Celup
+2             #01     Sirup
+3             #01  Pet Food
+4             #02 Teh Celup
+5             #02      Gula
+6             #03     Sirup
+7             #03  Pet Food
+8             #04 Teh Celup
+9             #04     Sirup
+10            #05 Teh Celup
+11            #05     Sirup
+12            #05      Gula
+13            #06 Teh Celup
+14            #06  Pet Food
+15            #07 Teh Celup
+16            #07     Sirup
+17            #07  Pet Food
+18            #08 Teh Celup
+19            #09 Teh Celup
+20            #09      Gula
+21            #10     Sirup
+22            #10  Pet Food
+23            #10      Gula
+a.12
+b.24
+c.10
+d.23
+e.4
+Jawaban (c)
+
+Berapa banyak jenis Item?
+Berapa banyak jenis item yang dijual kalau dilihat dari output transaksi kita berikut?
+   Kode.Transaksi      Item
+1             #01 Teh Celup
+2             #01     Sirup
+3             #01  Pet Food
+4             #02 Teh Celup
+5             #02      Gula
+6             #03     Sirup
+7             #03  Pet Food
+8             #04 Teh Celup
+9             #04     Sirup
+10            #05 Teh Celup
+11            #05     Sirup
+12            #05      Gula
+13            #06 Teh Celup
+14            #06  Pet Food
+15            #07 Teh Celup
+16            #07     Sirup
+17            #07  Pet Food
+18            #08 Teh Celup
+19            #09 Teh Celup
+20            #09      Gula
+21            #10     Sirup
+22            #10  Pet Food
+23            #10      Gula
+a.12
+b.24
+c.10
+d.23
+e.4
+Jawaban (e)
+
+Berapa banyak item?
+Berapa banyak item yang terdapat pada data transaksi contoh kita berikut?
+   Kode.Transaksi      Item
+1             #01 Teh Celup
+2             #01     Sirup
+3             #01  Pet Food
+4             #02 Teh Celup
+5             #02      Gula
+6             #03     Sirup
+7             #03  Pet Food
+8             #04 Teh Celup
+9             #04     Sirup
+10            #05 Teh Celup
+11            #05     Sirup
+12            #05      Gula
+13            #06 Teh Celup
+14            #06  Pet Food
+15            #07 Teh Celup
+16            #07     Sirup
+17            #07  Pet Food
+18            #08 Teh Celup
+19            #09 Teh Celup
+20            #09      Gula
+21            #10     Sirup
+22            #10  Pet Food
+23            #10      Gula
+a.12
+b.24
+c.10
+d.23
+e.4
+Jawaban (d)
+
